@@ -41,7 +41,7 @@
 				<p>Fashion is a popular style or practice, especially in clothing, footwear, accessories, makeup, hairstyle and body. Fashion is a distinctive and often constant trend in the style in which a person dresses. It is the prevailing styles in behaviour and the newest creations of textile designers.[1] Because the more technical term costume is regularly linked to the term "fashion", the use of the former has been relegated to special senses like fancy dress or masquerade wear, while "fashion" generally means clothing, including the study of it. Although aspects of fashion can be feminine or masculine, some trends are androgynous.</p>
 			</div>
 			<div id="tabs-2">
-				<p>Electronics</p>
+				<p>Electronics1</p>
 			</div>
 			<div id="tabs-3">
 				<p>Groceries</p>
